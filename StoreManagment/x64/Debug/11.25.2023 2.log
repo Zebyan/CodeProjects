@@ -1,0 +1,11 @@
+﻿  Dishwasher.cpp
+  Insert.cpp
+C:\Users\sebi\Desktop\Anul 2 Semestrul 1\POO\Probleme\11.25.2023 2\11.25.2023 2\Insert.cpp(6,6): warning C4101: 'type': unreferenced local variable
+  List.cpp
+  main.cpp
+C:\Users\sebi\Desktop\Anul 2 Semestrul 1\POO\Probleme\11.25.2023 2\11.25.2023 2\main.cpp(14,9): warning C4101: 'store': unreferenced local variable
+  Menu.cpp
+  Store.cpp
+  Washing_Machine.cpp
+  Generating Code...
+  11.25.2023 2.vcxproj -> C:\Users\sebi\Desktop\Anul 2 Semestrul 1\POO\Probleme\11.25.2023 2\x64\Debug\11.25.2023 2.exe
